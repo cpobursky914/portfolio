@@ -1,0 +1,56 @@
+html {
+  font: arial;
+
+}
+
+.navbar, .dropdown-menu {
+  background-color: #04C3F9;
+
+}
+
+.jumbotron {
+background-color: #04C3F9;
+}
+
+.btn {
+  background-color: #001C23;
+
+}
+
+#intro {
+  display: flex;
+  margin-top: 5rem;
+}
+
+#chris {
+  height: 30rem;
+  margin: 1rem;
+  border: 1rem solid black;
+}
+
+#about {
+  background-color: #00FB74;
+}
+
+#about h1 {
+  padding-top: 5rem;
+}
+
+#portfolio {
+  background-color: black;
+}
+
+h1.sect-title {
+  color: white;
+  padding-top: 5rem;
+}
+
+.img-responsive {
+  margin-top: 5rem;
+  margin-left: 6rem;
+  margin-right: 6rem;
+  margin-bottom: 1rem;
+  width: 30rem;
+  height: 30rem;
+  align-items: center;
+}
