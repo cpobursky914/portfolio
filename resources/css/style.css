@@ -4,16 +4,22 @@ html {
 }
 
 .navbar, .dropdown-menu {
-  background-color: #04C3F9;
+  background-color: black;
+  margin-bottom: auto;
+}
 
+.navbar-default .navbar-brand {
+  color: #04C3F9;
+  font-weight: bold;
 }
 
 .jumbotron {
 background-color: #04C3F9;
+margin-bottom: auto;
 }
 
 .btn {
-  background-color: #001C23;
+  background-color: black;
 
 }
 
@@ -34,6 +40,7 @@ background-color: #04C3F9;
 
 #about h1 {
   padding-top: 5rem;
+  margin-top: auto;
 }
 
 #portfolio {
@@ -43,6 +50,7 @@ background-color: #04C3F9;
 h1.sect-title {
   color: white;
   padding-top: 5rem;
+  margin-top: auto;
 }
 
 .img-responsive {
